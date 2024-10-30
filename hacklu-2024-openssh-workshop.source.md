@@ -27,7 +27,7 @@ output: pdf_document
 
 @@ws_author@@ - @@ws_date@@
 
-Matrix Room: *@@matrix_room_short@@* -- GitHb Repository: *@@gh_repo_short@@*
+Matrix Room: *@@matrix_room_short@@* -- GitHub Repository: *@@gh_repo_short@@*
 
 Wi-Fi SSID: *workshop* -- Wi-Fi password: *hacklu2024*
 
