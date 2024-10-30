@@ -27,7 +27,7 @@ output: pdf_document
 
 William Robinet (Conostix S.A.) - 2024-10-22
 
-Matrix Room: *https://t.ly/wjSQU* -- GitHb Repository: *https://t.ly/QrHP4*
+Matrix Room: *https://t.ly/wjSQU* -- GitHub Repository: *https://t.ly/QrHP4*
 
 Wi-Fi SSID: *workshop* -- Wi-Fi password: *hacklu2024*
 
